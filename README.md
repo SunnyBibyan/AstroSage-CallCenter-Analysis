@@ -41,10 +41,10 @@ This project analyzes **28,027 consultation records** (Dec 2023 – Jan 2024) us
 ![Dashboard](images/dashboard.png)
 
 ## 📂 Repository Contents
-- `/data` → Raw dataset & cleaned file  
-- `/docs` → Detailed answers & methodology  
-- `/presentation` → Final PPT for management  
-- `/images` → Dashboard screenshots  
+- AstroSage Analysis-SpreadSheet Project_3.zip 
+- `/images` → Dashboard screenshots
+- README.md
+  
 
 ## 🚀 Tools Used
 - **Excel (PivotTables, charts, conditional formatting)**  
