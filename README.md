@@ -51,5 +51,3 @@ This project analyzes **28,027 consultation records** (Dec 2023 – Jan 2024) us
 - **Functions:** COUNT, AVERAGE, CORREL, STDEV  
 - **Visualization:** Bar/Line/Scatter/Heatmap  
 
-## 🔗 Resume Highlight
-> "Developed a full-scale data analysis project for **AstroSage Call Center**, presenting insights via Excel dashboards, statistical functions, and a professional PPT. Recommended a ₹1 crore strategic investment plan to improve efficiency, satisfaction, and profitability."
